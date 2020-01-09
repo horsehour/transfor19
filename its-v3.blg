@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: its-v3.aux
+The style file: naturemag.bst
+Database file #1: ref.bib
+Warning--can't use both volume and number fields in friedman2001elements
+You've used 5 entries,
+            2348 wiz_defined-function locations,
+            1005 strings with 9562 characters,
+and the built_in function-call counts, 1982 in all, are:
+= -- 128
+> -- 52
+< -- 2
++ -- 26
+- -- 13
+* -- 227
+:= -- 201
+add.period$ -- 12
+call.type$ -- 5
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 169
+empty$ -- 202
+format.name$ -- 17
+if$ -- 420
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 45
+newline$ -- 30
+num.names$ -- 5
+pop$ -- 59
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 56
+stack$ -- 0
+substring$ -- 59
+swap$ -- 164
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 10
+width$ -- 6
+write$ -- 55
+(There was 1 warning)

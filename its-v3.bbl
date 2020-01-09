@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{bishop2006pattern}
+\bibinfo{author}{Bishop, C.~M.}
+\newblock \emph{\bibinfo{title}{Pattern Recognition and Machine Learning}}
+  (\bibinfo{publisher}{Springer}, \bibinfo{year}{2006}).
+
+\bibitem{friedman2001elements}
+\bibinfo{author}{Friedman, J.}, \bibinfo{author}{Hastie, T.} \&
+  \bibinfo{author}{Tibshirani, R.}
+\newblock \emph{\bibinfo{title}{The elements of statistical learning}},
+  vol.~\bibinfo{volume}{1} (\bibinfo{publisher}{Springer series in statistics
+  New York, NY, USA:}, \bibinfo{year}{2001}).
+
+\bibitem{snoek2012practical}
+\bibinfo{author}{Snoek, J.}, \bibinfo{author}{Larochelle, H.} \&
+  \bibinfo{author}{Adams, R.~P.}
+\newblock \bibinfo{title}{Practical bayesian optimization of machine learning
+  algorithms}.
+\newblock In \emph{\bibinfo{booktitle}{Advances in neural information
+  processing systems}}, \bibinfo{pages}{2951--2959} (\bibinfo{year}{2012}).
+
+\bibitem{woodard2017predicting}
+\bibinfo{author}{Woodard, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Predicting travel time reliability using mobile phone
+  gps data}.
+\newblock \emph{\bibinfo{journal}{Transportation Research Part C: Emerging
+  Technologies}} \textbf{\bibinfo{volume}{75}}, \bibinfo{pages}{30--44}
+  (\bibinfo{year}{2017}).
+
+\bibitem{goodfellow2016deep}
+\bibinfo{author}{Goodfellow, I.}, \bibinfo{author}{Bengio, Y.},
+  \bibinfo{author}{Courville, A.} \& \bibinfo{author}{Bengio, Y.}
+\newblock \emph{\bibinfo{title}{Deep learning}}, vol.~\bibinfo{volume}{1}
+  (\bibinfo{publisher}{MIT press Cambridge}, \bibinfo{year}{2016}).
+
+\end{thebibliography}
